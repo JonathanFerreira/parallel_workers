@@ -1,0 +1,11 @@
+[
+  {"name": "Sabão", "code": "01"},
+  {"name": "Papel", "code": "02"},
+  {"name": "Macarrão", "code": "03"},
+  {"name": "Caneta", "code": "04"},
+  {"name": "Lapis", "code": "05"},
+  {"name": "Roda", "code": "06"},
+  {"name": "Pião", "code": "07"},
+  {"name": "Celular", "code": "08"},
+  {"name": "Computador", "code": "09"}
+]
